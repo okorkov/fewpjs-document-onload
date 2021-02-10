@@ -10,7 +10,7 @@ describe( "index.js", () => {
 
     expect( document.querySelector( 'p' )
         .textContent )
-      .to.equal( "This is really cool!" );
+      .to.equal( "JavaScript is so cool. It lets me add text to my page programmatically." );
   } )
 
 } )
